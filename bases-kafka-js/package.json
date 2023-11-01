@@ -1,0 +1,15 @@
+{
+  "name": "bases-kafka",
+  "version": "1.0.0",
+  "description": "bases kafka js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ip": "^1.1.8",
+    "kafkajs": "^2.2.4"
+  }
+}
